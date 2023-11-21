@@ -30,7 +30,7 @@ const MyExpertise = () => {
             </div>
             <div className="px-2 md:px-8 py-4 text-lg font-bold text-Snow">My Expertise</div>
             <div>
-            <iframe src="https://beta.textrebate.com/partner-rebate" title="Text Rebate" style="width:100%; height:500px;">
+            <iframe src="https://beta.textrebate.com/claim" title="Text Rebate" style="width:100%; height:500px;">
             </iframe>
             </div>
         </>
