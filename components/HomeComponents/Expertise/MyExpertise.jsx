@@ -31,7 +31,7 @@ const MyExpertise = () => {
             <div className="px-2 md:px-8 py-4 text-lg font-bold text-Snow">Text Rebate</div>
             <div className="iframe-container" style={{ width: '100%', overflow: 'hidden' }}>
                 <iframe 
-                    src="https://beta.textrebate.com/claim" 
+                    src="https://beta.textrebate.com/partner-rebate" 
                     title="Partner Rebate Form" 
                     style={{ width: '100%', height: '500px', border: 'none' }}>
                     {/* Content inside iframe is from the src attribute */}
