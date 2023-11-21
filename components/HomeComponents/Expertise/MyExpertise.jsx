@@ -28,7 +28,13 @@ const MyExpertise = () => {
                 }
 
             </div>
+            <div className="px-2 md:px-8 py-4 text-lg font-bold text-Snow">My Expertise</div>
+            <div>
+            <iframe src="https://beta.textrebate.com/claim" title="W3Schools Free Online Web Tutorials">
+            </iframe>
+            </div>
         </>
+        
     )
 }
 
